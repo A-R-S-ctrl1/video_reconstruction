@@ -96,4 +96,3 @@ video_reconstruction/
 ## Author
 
 Aruna Ramasamy 
-Machine Learning Engineer  
